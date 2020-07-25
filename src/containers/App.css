@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+
+.NavBar {
+  text-align: center;
+}
+
+.NavBar ul {
+  width : 100%;
+  text-align: center;
+}
+
+.NavBar li {
+  display: inline-block;
+  margin: 20px;
+}
+
+.NavBar a {
+  font-weight: bolder;
+}
+
+.NavBar a:hover{
+  color: rgb(64, 226, 43);
+}
+
+.NavBar a.active{
+  color: rgb(226, 43, 43);
+}
+
+

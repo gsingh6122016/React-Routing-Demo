@@ -1,0 +1,15 @@
+.sendpost{
+    text-align: center;
+    
+}
+
+.sendpost label{
+    font-size: large;
+    font-weight: bold;
+}
+
+.sendpost input{
+    width: 60%;
+}
+
+
